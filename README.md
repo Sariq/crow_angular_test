@@ -21,3 +21,9 @@ Please choose one of the following tasks:
 You do not have to write a chat server - you may implement 2 chat windows on a single page. 
 
 3. Write a family tree application, with 3 generation and allow search of an person within by name and age  
+
+
+Important - Please use comments to explain your code, or what are you trying to achieve.
+Feel free to ask for help during the session
+You may use any resource/component from the internet that can help you with your task. 
+
